@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="git repository" />
+        <module name="MyFirstMASystem" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="git repository" target="1.5" />
+      <module name="MyFirstMASystem" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
