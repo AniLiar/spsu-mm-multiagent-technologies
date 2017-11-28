@@ -11,6 +11,23 @@ Program arguments:<br/>
 Agent1:MyAgent(10,Agent2,Agent3,Agent4,Agent5);Agent2:MyAgent(5,Agent1,Agent6);Agent3:MyAgent(6,Agent1);Agent4:MyAgent(1,Agent1);Agent5:MyAgent(2,Agent1);Agent6:MyAgent(6,Agent2,Agent7,Agent8);Agent7:MyAgent(13,Agent6);Agent8:MyAgent(7,Agent6); <br/><br/>
 AgentName:AgentClass(valueOfAgent,neighbour1,neighbour2,...)
 <br/><br/>
-| memory     | number of messages sent to the center | number of messages sent to each other | number of beats |
-|------------|---------------------------------------|---------------------------------------|-----------------|
-| O(N) or 2N | 1 (in the worst case, 2)              | 2M                                    | O(M)            |
+<b>Algorithm's properties:</b><br/>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-031e">memory<br></th>
+    <th class="tg-031e">number of messages sent to the center</th>
+    <th class="tg-031e">number of messages sent to each other</th>
+    <th class="tg-031e">number of beats</th>
+  </tr>
+  <tr>
+    <td class="tg-031e">O(N) or 2N<br></td>
+    <td class="tg-031e">1 (in the worst case, 2)</td>
+    <td class="tg-031e">2M</td>
+    <td class="tg-031e">O(M)</td>
+  </tr>
+</table>
