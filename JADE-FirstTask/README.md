@@ -1,7 +1,7 @@
 # spsu-mm-multiagent-technologies
 My homework for study course on multi-agent technologies.<br/>
 My multi-agent system finds average of agents values.</br>
-<b>NOTE:</b>The graph for the algorithm is an acyclic graph.<br/>
+<b>NOTE:</b> The graph for the algorithm is an acyclic graph.<br/>
 
 <b>jade-myconfiguration:</b><br/>
 Main class: jade.Boot
