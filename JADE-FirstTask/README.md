@@ -12,11 +12,6 @@ Agent1:MyAgent(10,Agent2,Agent3,Agent4,Agent5);Agent2:MyAgent(5,Agent1,Agent6);A
 AgentName:AgentClass(valueOfAgent,neighbour1,neighbour2,...)
 <br/><br/>
 <b>Algorithm's properties:</b><br/>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-</style>
 <table class="tg">
   <tr>
     <th class="tg-031e">memory<br></th>
