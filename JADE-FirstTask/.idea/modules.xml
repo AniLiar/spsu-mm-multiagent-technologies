@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyFirstMASystem.iml" filepath="$PROJECT_DIR$/MyFirstMASystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/git repository.iml" filepath="$PROJECT_DIR$/git repository.iml" />
     </modules>
   </component>
