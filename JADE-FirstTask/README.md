@@ -1,6 +1,7 @@
 # spsu-mm-multiagent-technologies
 My homework for study course on multi-agent technologies.<br/>
 My multi-agent system finds average of agents values.
+<b>NOTE:</b>The graph for the algorithm is an acyclic graph.<br/>
 
 <b>jade-myconfiguration:</b><br/>
 Main class: jade.Boot
@@ -26,3 +27,6 @@ AgentName:AgentClass(valueOfAgent,neighbour1,neighbour2,...)
     <td class="tg-031e">O(M)</td>
   </tr>
 </table>
+where 
+	-M - number of links,
+	-N - number of agents
